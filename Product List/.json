@@ -1,1 +1,48 @@
+[
+  {
+    "photo": "iphone13.jpg",
+    "name": "iPhone 13",
+    "category": "смартфон",
+    "discount": 10,
+    "priceWithoutDiscount": 79900,
+    "article": "APL-IP13-128GB",
+    "wbArticle": "WB-APL-IP13-128GB"
+  },
+  {
+    "photo": "macbookair.jpg",
+    "name": "MacBook Air M1",
+    "category": "ноутбук",
+    "discount": 15,
+    "priceWithoutDiscount": 99900,
+    "article": "APL-MBAIR-M1",
+    "wbArticle": "WB-APL-MBAIR-M1"
+  },
+  {
+    "photo": "iphone14pro.jpg",
+    "name": "iPhone 14 Pro",
+    "category": "смартфон",
+    "discount": 5,
+    "priceWithoutDiscount": 109900,
+    "article": "APL-IP14PRO-256GB",
+    "wbArticle": "WB-APL-IP14PRO-256GB"
+  },
+  {
+    "photo": "macbookpro16.jpg",
+    "name": "MacBook Pro 16",
+    "category": "ноутбук",
+    "discount": 12,
+    "priceWithoutDiscount": 199900,
+    "article": "APL-MBPRO16-512GB",
+    "wbArticle": "WB-APL-MBPRO16-512GB"
+  },
+  {
+    "photo": "iphoneSE.jpg",
+    "name": "iPhone SE",
+    "category": "смартфон",
+    "discount": 8,
+    "priceWithoutDiscount": 42900,
+    "article": "APL-IPSE-64GB",
+    "wbArticle": "WB-APL-IPSE-64GB"
+  }
+]
 
